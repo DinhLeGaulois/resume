@@ -34,7 +34,7 @@ English, French and Vietnamese
 
 ## WEB DEVELOPMENT EXPERIENCE
 
-### WordPress: "www.dinhlegaulois.net"
+### WordPress: "http://www.dinhlegaulois.net"
 
 ### Projects ([all](https://github.com/DinhLeGaulois2))
 |               |                                                      Without Database                                                     |                                                   No-SQL (MongoDB/dLab)                                                   |                                                                                                                                                                                                                 SQL (MySQL/sqlite)                                                                                                                                                                                                                |
